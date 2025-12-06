@@ -1,0 +1,11 @@
+# first
+
+// ADD AT TOP
+const int ledGreen  = 2;
+const int ledYellow = 3;
+const int ledRed    = 4;
+
+// ADD IN setup()
+pinMode(ledGreen,  OUTPUT);
+pinMode(ledYellow, OUTPUT);
+pinMode(ledRed,    OUTPUT);
